@@ -8,7 +8,7 @@ A module with many types of sorting system for lists
 
 > Data
 
-| Type | Best case | Average case | Worst case |
+| Algorithm | Best case | Average case | Worst case |
 | --- | --- | --- | --- |
 | QuickSort | nLog(n) | nLog(n) | n² |
 | MergeSort | nLog(n) | nLog(n) | nLog(n) |
