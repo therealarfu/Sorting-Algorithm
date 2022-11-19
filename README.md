@@ -8,10 +8,10 @@ A module with many types of sorting system for lists
 
 > Data
 
-| Type | Best case | Medium case | Worst case |
+| Type | Best case | Average case | Worst case |
 | --- | --- | --- | --- |
-| QuickSort | Ω(nLog(n)) | Θ(nLog(n)) | O(n²) |
-| MergeSort | Ω(nLog(n)) | Θ(nLog(n)) | O(nLog(n)) |
-| BubbleSort | Ω(nLog(n)) | Θ(nLog(n)) | O(nLog(n)) |
-| InsertSort | Ω(nLog(n)) | Θ(nLog(n)) | O(nLog(n)) |
-| SelectionSort |Ω(n) | Θ(nLog(n)) | O(nLog(n)) |
+| QuickSort | nLog(n) | nLog(n) | n² |
+| MergeSort | nLog(n) | nLog(n) | nLog(n) |
+| BubbleSort | n | n²| n² |
+| InsertSort | n | n² | n² |
+| SelectionSort |n² | n² |n² |
