@@ -2,11 +2,11 @@
 A module with many types of sorting system for lists
 
 ## Future plans
-> We plan to add more types of sorting and fix the bugs if had some.
+> I'm planning to add more types of sorting and fix the bugs if had some.
 
 ## Overview
 
-> Data
+> Complexities
 
 | Algorithm | Best case | Average case | Worst case |
 | --- | --- | --- | --- |
